@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#0F1114</color>
+    <color name="surface">#1B1E23</color>
+    <color name="fg">#E8EAED</color>
+    <color name="muted">#9AA0A6</color>
+    <color name="line">#3A3F46</color>
+    <color name="sel">#2A2F36</color>
+    <color name="accent">#F8D35A</color>
+    <color name="fill">#33F8D35A</color>
+    <color name="rain">#7AB4F0</color>
+    <color name="rainfill">#2E7AB4F0</color>
+    <color name="wind">#A3B3C8</color>
+    <color name="widget">#2A6DB0</color>
+    <color name="widget2">#1F5A96</color>
+    <color name="link">#8AB4F8</color>
+    <color name="err">#F28B82</color>
+</resources>

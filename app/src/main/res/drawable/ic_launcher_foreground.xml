@@ -1,0 +1,16 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <!-- Sonne -->
+    <path android:fillColor="#F9C623"
+        android:pathData="M28,46 a18,18 0 1,0 36,0 a18,18 0 1,0 -36,0" />
+    <!-- Wolke: jede Form einzeln, damit sich überlappende Teile nicht gegenseitig ausstanzen -->
+    <path android:fillColor="#FFFFFF"
+        android:pathData="M38,66 a11,11 0 1,0 22,0 a11,11 0 1,0 -22,0" />
+    <path android:fillColor="#FFFFFF"
+        android:pathData="M47,58 a15,15 0 1,0 30,0 a15,15 0 1,0 -30,0" />
+    <path android:fillColor="#FFFFFF"
+        android:pathData="M63,66 a11,11 0 1,0 22,0 a11,11 0 1,0 -22,0" />
+    <path android:fillColor="#FFFFFF"
+        android:pathData="M49,62 h25 v15 h-25 z" />
+</vector>

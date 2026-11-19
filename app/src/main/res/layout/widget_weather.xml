@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Widget-Gerüst: Zeilen mit Ortskacheln werden im Code eingefügt. -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/w_rows"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" />

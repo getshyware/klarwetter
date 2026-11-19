@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Klarwetter</string>
+    <string name="widget_name">Klarwetter</string>
+    <string name="widget_desc">Aktuelles Wetter für deinen Ort, ohne Tracking</string>
+    <string name="privacy_points">✓  Keine Werbung\n✓  Keine Cookies\n✓  Keine Analyse oder Statistik\n✓  Kein Zugriff auf deinen Standort\n✓  Deine Orte bleiben nur auf diesem Gerät</string>
+    <string name="privacy_sources">Wetterdaten: Open-Meteo.com (CC BY 4.0)\nOrtssuche: Open-Meteo und OpenStreetMap (© OpenStreetMap-Mitwirkende)</string>
+</resources>
