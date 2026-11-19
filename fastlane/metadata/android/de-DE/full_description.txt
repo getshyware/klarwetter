@@ -1,0 +1,21 @@
+Klarwetter zeigt das Wetter für Ihre Orte – jetzt, Stunde für Stunde und für die nächsten Tage. Ohne Werbung, ohne Konto und ohne Zugriff auf Ihren Standort.
+
+<b>Funktionen</b>
+<ul>
+<li>Aktuelles Wetter mit gefühlter Temperatur, Luftfeuchte und Wind</li>
+<li>Stündlicher Verlauf von Temperatur, Regenwahrscheinlichkeit und Wind</li>
+<li>Vorhersage für bis zu 9 Tage</li>
+<li>Bis zu 10 Orte – Suche nach Ortsname oder Postleitzahl</li>
+<li>Widget für den Startbildschirm: zwischen den Orten blättern oder breiter ziehen für mehrere Orte nebeneinander</li>
+</ul>
+
+<b>Datenschutz</b>
+<ul>
+<li>Einzige Berechtigung: Internet</li>
+<li>Kein Standortzugriff – Sie legen Ihre Orte selbst fest; sie bleiben nur auf dem Gerät</li>
+<li>Keine Werbung, keine Analyse, keine Bibliotheken von Drittanbietern</li>
+</ul>
+
+Wetterdaten: Open-Meteo.com (CC BY 4.0). Ortssuche: Open-Meteo und OpenStreetMap Nominatim (© OpenStreetMap-Mitwirkende). Übertragen werden nur der gesuchte Ort bzw. seine Koordinaten.
+
+Ein Projekt von Shyware – freie Software, die Sie nicht beobachtet: https://getshyware.com

@@ -1,0 +1,23 @@
+Klarwetter shows the weather for your places – right now, hour by hour and for the coming days. No ads, no account and no access to your location.
+
+<b>Features</b>
+<ul>
+<li>Current weather with feels-like temperature, humidity and wind</li>
+<li>Hourly temperature, chance of rain and wind</li>
+<li>Forecast for up to 9 days</li>
+<li>Up to 10 places – search by name or postal code</li>
+<li>Home screen widget: page through your places or stretch it to see several side by side</li>
+</ul>
+
+<b>Privacy</b>
+<ul>
+<li>Only permission: Internet</li>
+<li>No location access – you choose your places yourself; they stay on the device</li>
+<li>No ads, no analytics, no third-party libraries</li>
+</ul>
+
+Weather data: Open-Meteo.com (CC BY 4.0). Place search: Open-Meteo and OpenStreetMap Nominatim (© OpenStreetMap contributors). Only the searched place or its coordinates are sent.
+
+The app is currently available in German.
+
+A Shyware project – free software that doesn't watch you: https://getshyware.com

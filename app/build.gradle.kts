@@ -26,5 +26,11 @@ android {
         sourceCompatibility = JavaVersion.VERSION_17
         targetCompatibility = JavaVersion.VERSION_17
     }
+
+    // Kein von Google signierter Abhängigkeits-Block im APK (Vorgabe von F-Droid).
+    dependenciesInfo {
+        includeInApk = false
+        includeInBundle = false
+    }
 }
 // Keine Abhängigkeiten: keine Analyse-, Werbe- oder Tracking-Bibliotheken.
