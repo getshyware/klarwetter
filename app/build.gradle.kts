@@ -11,8 +11,8 @@ android {
         applicationId = "com.getshyware.klarwetter"
         minSdk = 26
         targetSdk = 36
-        versionCode = 1
-        versionName = "1.0"
+        versionCode = 2
+        versionName = "1.0.1"
     }
 
     buildTypes {
@@ -34,3 +34,10 @@ android {
     }
 }
 // Keine Abhängigkeiten: keine Analyse-, Werbe- oder Tracking-Bibliotheken.
+
+// Baseline-Profile werden nicht reproduzierbar erzeugt – für F-Droid abgeschaltet.
+tasks.whenTaskAdded {
+    if (name.contains("ArtProfile")) {
+        enabled = false
+    }
+}
